@@ -1,0 +1,98 @@
+C:\coding c\pentago\pentago\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\coding c\pentago\pentago\obj\x86\Debug\pentago.Properties.Resources.resources
+C:\coding c\pentago\pentago\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\coding c\pentago\pentago\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\coding c\pentago\pentago\bin\Debug\pentago.exe
+C:\coding c\pentago\pentago\bin\Debug\pentago.pdb
+C:\coding c\pentago\pentago\obj\x86\Debug\pentago.exe
+C:\coding c\pentago\pentago\obj\x86\Debug\pentago.pdb
+C:\coding c\pentago\pentago\obj\x86\Debug\pentago.GameField.resources
+C:\coding c\pentago\pentago\obj\x86\Debug\pentago.BallPoint.resources
+D:\NinaProjects\pentago\pentago\obj\x86\Debug\pentago.exe
+D:\NinaProjects\pentago\pentago\obj\x86\Debug\pentago.pdb
+D:\NinaProjects\pentago\pentago\bin\Debug\pentago.exe
+D:\NinaProjects\pentago\pentago\bin\Debug\pentago.pdb
+D:\NinaProjects\pentago\pentago\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\NinaProjects\pentago\pentago\obj\x86\Debug\pentago.BallPoint.resources
+D:\NinaProjects\pentago\pentago\obj\x86\Debug\pentago.GameField.resources
+D:\NinaProjects\pentago\pentago\obj\x86\Debug\pentago.Properties.Resources.resources
+D:\NinaProjects\pentago\pentago\obj\x86\Debug\pentago.Start.resources
+D:\NinaProjects\pentago\pentago\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\NinaProjects\pentago\pentago\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\NinaProjects\pentago\pentago\bin\Debug\img\ball_black.gif
+D:\NinaProjects\pentago\pentago\bin\Debug\img\ball_blue.gif
+D:\NinaProjects\pentago\pentago\bin\Debug\img\ball_brown.gif
+D:\NinaProjects\pentago\pentago\bin\Debug\img\ball_cyan.gif
+D:\NinaProjects\pentago\pentago\bin\Debug\img\ball_green.gif
+D:\NinaProjects\pentago\pentago\bin\Debug\img\ball_magenta.gif
+D:\NinaProjects\pentago\pentago\bin\Debug\img\ball_red.gif
+D:\NinaProjects\pentago\pentago\bin\Debug\img\ball_white.gif
+D:\NinaProjects\pentago\pentago\bin\Debug\img\ball_yellow.gif
+D:\NinaProjects\pentago\pentago\bin\Debug\img\sector_down.gif
+D:\NinaProjects\pentago\pentago\bin\Debug\img\sector_left.gif
+D:\NinaProjects\pentago\pentago\bin\Debug\img\sector_right.gif
+D:\NinaProjects\pentago\pentago\bin\Debug\img\sector_up.gif
+C:\NinaProjects\pentago\pentago\obj\x86\Debug\pentago.exe
+C:\NinaProjects\pentago\pentago\obj\x86\Debug\pentago.pdb
+C:\NinaProjects\pentago\pentago\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\NinaProjects\pentago\pentago\obj\x86\Debug\pentago.BallPoint.resources
+C:\NinaProjects\pentago\pentago\obj\x86\Debug\pentago.GameField.resources
+C:\NinaProjects\pentago\pentago\obj\x86\Debug\pentago.Properties.Resources.resources
+C:\NinaProjects\pentago\pentago\obj\x86\Debug\pentago.StartForm.resources
+C:\NinaProjects\pentago\pentago\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\NinaProjects\pentago\pentago\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\NinaProjects\pentago\pentago\bin\Debug\img\ball_black.gif
+C:\NinaProjects\pentago\pentago\bin\Debug\img\ball_blue.gif
+C:\NinaProjects\pentago\pentago\bin\Debug\img\ball_brown.gif
+C:\NinaProjects\pentago\pentago\bin\Debug\img\ball_cyan.gif
+C:\NinaProjects\pentago\pentago\bin\Debug\img\ball_green.gif
+C:\NinaProjects\pentago\pentago\bin\Debug\img\ball_magenta.gif
+C:\NinaProjects\pentago\pentago\bin\Debug\img\ball_red.gif
+C:\NinaProjects\pentago\pentago\bin\Debug\img\ball_white.gif
+C:\NinaProjects\pentago\pentago\bin\Debug\img\ball_yellow.gif
+C:\NinaProjects\pentago\pentago\bin\Debug\img\sector_down.gif
+C:\NinaProjects\pentago\pentago\bin\Debug\img\sector_left.gif
+C:\NinaProjects\pentago\pentago\bin\Debug\img\sector_right.gif
+C:\NinaProjects\pentago\pentago\bin\Debug\img\sector_up.gif
+C:\NinaProjects\pentago\pentago\bin\Debug\pentago.exe
+C:\NinaProjects\pentago\pentago\bin\Debug\pentago.pdb
+C:\coding c\pentago\pentago\bin\Debug\img\ball_black.gif
+C:\coding c\pentago\pentago\bin\Debug\img\ball_blue.gif
+C:\coding c\pentago\pentago\bin\Debug\img\ball_brown.gif
+C:\coding c\pentago\pentago\bin\Debug\img\ball_cyan.gif
+C:\coding c\pentago\pentago\bin\Debug\img\ball_green.gif
+C:\coding c\pentago\pentago\bin\Debug\img\ball_magenta.gif
+C:\coding c\pentago\pentago\bin\Debug\img\ball_red.gif
+C:\coding c\pentago\pentago\bin\Debug\img\ball_white.gif
+C:\coding c\pentago\pentago\bin\Debug\img\ball_yellow.gif
+C:\coding c\pentago\pentago\bin\Debug\img\sector_down.gif
+C:\coding c\pentago\pentago\bin\Debug\img\sector_left.gif
+C:\coding c\pentago\pentago\bin\Debug\img\sector_right.gif
+C:\coding c\pentago\pentago\bin\Debug\img\sector_up.gif
+C:\coding c\pentago\pentago\obj\x86\Debug\pentago.StartForm.resources
+D:\coding c\pentago\pentago\obj\x86\Debug\pentago.exe
+D:\coding c\pentago\pentago\obj\x86\Debug\pentago.pdb
+F:\Programming\coding c\pentago\pentago\obj\x86\Debug\pentago.csprojAssemblyReference.cache
+F:\Programming\coding c\pentago\pentago\obj\x86\Debug\pentago.Properties.Resources.resources
+F:\Programming\coding c\pentago\pentago\obj\x86\Debug\pentago.csproj.GenerateResource.cache
+F:\Programming\coding c\pentago\pentago\obj\x86\Debug\pentago.exe
+F:\Programming\coding c\pentago\pentago\obj\x86\Debug\pentago.pdb
+F:\Programming\coding c\pentago\pentago\bin\Debug\pentago.exe
+F:\Programming\coding c\pentago\pentago\bin\Debug\pentago.pdb
+F:\Programming\coding c\pentago\pentago\bin\Debug\Images\ball_black.gif
+F:\Programming\coding c\pentago\pentago\bin\Debug\Images\ball_blue.gif
+F:\Programming\coding c\pentago\pentago\bin\Debug\Images\ball_brown.gif
+F:\Programming\coding c\pentago\pentago\bin\Debug\Images\ball_cyan.gif
+F:\Programming\coding c\pentago\pentago\bin\Debug\Images\ball_green.gif
+F:\Programming\coding c\pentago\pentago\bin\Debug\Images\ball_magenta.gif
+F:\Programming\coding c\pentago\pentago\bin\Debug\Images\ball_red.gif
+F:\Programming\coding c\pentago\pentago\bin\Debug\Images\ball_white.gif
+F:\Programming\coding c\pentago\pentago\bin\Debug\Images\ball_yellow.gif
+F:\Programming\coding c\pentago\pentago\bin\Debug\Images\sector_down.gif
+F:\Programming\coding c\pentago\pentago\bin\Debug\Images\sector_left.gif
+F:\Programming\coding c\pentago\pentago\bin\Debug\Images\sector_right.gif
+F:\Programming\coding c\pentago\pentago\bin\Debug\Images\sector_up.gif
+F:\Programming\coding c\pentago\pentago\bin\Debug\pentago.exe.config
+F:\Programming\coding c\pentago\pentago\obj\x86\Debug\pentago.Components.BallPoint.resources
+F:\Programming\coding c\pentago\pentago\obj\x86\Debug\pentago.Forms.GameField.resources
+F:\Programming\coding c\pentago\pentago\obj\x86\Debug\pentago.Forms.StartForm.resources
